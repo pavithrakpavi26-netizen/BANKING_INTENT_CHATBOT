@@ -1,0 +1,1059 @@
+[
+  {
+    "phone": "8147499523",
+    "name": "Pavithra K",
+    "account_no": "XXXX1234",
+    "balance": 45890,
+    "loan_score": 82,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 1200,
+        "desc": "PhonePe Shopping"
+      },
+      {
+        "date": "2026-05-03",
+        "type": "Credit",
+        "amount": 15000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Debit",
+        "amount": 25000,
+        "desc": "Large Transfer"
+      }
+    ]
+  },
+
+  {
+    "phone": "9111111111",
+    "name": "Anjali Verma",
+    "account_no": "XXXX4321",
+    "balance": 23500,
+    "loan_score": 70,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 1200,
+        "desc": "Medical Store"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Credit",
+        "amount": 20000,
+        "desc": "Salary"
+      }
+    ]
+  },
+
+  {
+    "phone": "9876543210",
+    "name": "Rahul Sharma",
+    "account_no": "XXXX5678",
+    "balance": 78500,
+    "loan_score": 90,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 3500,
+        "desc": "Amazon Shopping"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Credit",
+        "amount": 45000,
+        "desc": "Company Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 8000,
+        "desc": "Flight Booking"
+      }
+    ]
+  },
+
+  {
+    "phone": "9988776655",
+    "name": "Sneha Reddy",
+    "account_no": "XXXX8765",
+    "balance": 15200,
+    "loan_score": 65,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 2500,
+        "desc": "Swiggy Food"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 18000,
+        "desc": "Freelance Payment"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 4500,
+        "desc": "Shopping Mall"
+      }
+    ]
+  },
+
+  {
+    "phone": "9000000001",
+    "name": "Arjun Patel",
+    "account_no": "XXXX2222",
+    "balance": 62000,
+    "loan_score": 88,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Debit",
+        "amount": 12000,
+        "desc": "Laptop Purchase"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Credit",
+        "amount": 55000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 1500,
+        "desc": "Electricity Bill"
+      }
+    ]
+  },
+
+  {
+    "phone": "9000000002",
+    "name": "Megha Singh",
+    "account_no": "XXXX3333",
+    "balance": 9800,
+    "loan_score": 55,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 3200,
+        "desc": "Recharge"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Debit",
+        "amount": 2100,
+        "desc": "Restaurant"
+      },
+      {
+        "date": "2026-05-09",
+        "type": "Credit",
+        "amount": 10000,
+        "desc": "Part Time Salary"
+      }
+    ]
+  },
+
+  {
+    "phone": "9000000003",
+    "name": "Kiran Kumar",
+    "account_no": "XXXX4444",
+    "balance": 134500,
+    "loan_score": 94,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Credit",
+        "amount": 95000,
+        "desc": "Business Income"
+      },
+      {
+        "date": "2026-05-04",
+        "type": "Debit",
+        "amount": 22000,
+        "desc": "Car EMI"
+      },
+      {
+        "date": "2026-05-12",
+        "type": "Debit",
+        "amount": 18000,
+        "desc": "Investment"
+      }
+    ]
+  },
+
+  {
+    "phone": "9000000004",
+    "name": "Priya Nair",
+    "account_no": "XXXX5555",
+    "balance": 28700,
+    "loan_score": 73,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 4000,
+        "desc": "Hospital Bill"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Credit",
+        "amount": 26000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 2500,
+        "desc": "Grocery"
+      }
+    ]
+  },
+
+  {
+    "phone": "9000000005",
+    "name": "Rohit Das",
+    "account_no": "XXXX6666",
+    "balance": 50300,
+    "loan_score": 80,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Debit",
+        "amount": 5000,
+        "desc": "Fuel"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 42000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 7200,
+        "desc": "Online Shopping"
+      }
+    ]
+  },
+
+  {
+    "phone": "9000000006",
+    "name": "Aisha Khan",
+    "account_no": "XXXX7777",
+    "balance": 41200,
+    "loan_score": 77,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 2000,
+        "desc": "Movie Tickets"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Credit",
+        "amount": 35000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Debit",
+        "amount": 6500,
+        "desc": "Travel Booking"
+      }
+    ]
+  },
+
+  
+  {
+    "phone": "9876543210",
+    "name": "Rahul Sharma",
+    "account_no": "XXXX5678",
+    "balance": 78500,
+    "loan_score": 90,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 3500,
+        "desc": "Amazon Shopping"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Credit",
+        "amount": 45000,
+        "desc": "Company Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 8000,
+        "desc": "Flight Booking"
+      }
+    ]
+  },
+
+  {
+    "phone": "9123456780",
+    "name": "Sneha Reddy",
+    "account_no": "XXXX8765",
+    "balance": 15200,
+    "loan_score": 65,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 2500,
+        "desc": "Swiggy Food"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 18000,
+        "desc": "Freelance Payment"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 4500,
+        "desc": "Shopping Mall"
+      }
+    ]
+  },
+
+  {
+    "phone": "9988123456",
+    "name": "Arjun Patel",
+    "account_no": "XXXX2222",
+    "balance": 62000,
+    "loan_score": 88,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Debit",
+        "amount": 12000,
+        "desc": "Laptop Purchase"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Credit",
+        "amount": 55000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 1500,
+        "desc": "Electricity Bill"
+      }
+    ]
+  },
+
+  {
+    "phone": "9345678901",
+    "name": "Megha Singh",
+    "account_no": "XXXX3333",
+    "balance": 9800,
+    "loan_score": 55,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 3200,
+        "desc": "Recharge"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Debit",
+        "amount": 2100,
+        "desc": "Restaurant"
+      },
+      {
+        "date": "2026-05-09",
+        "type": "Credit",
+        "amount": 10000,
+        "desc": "Part Time Salary"
+      }
+    ]
+  },
+
+  {
+    "phone": "9870011223",
+    "name": "Kiran Kumar",
+    "account_no": "XXXX4444",
+    "balance": 134500,
+    "loan_score": 94,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Credit",
+        "amount": 95000,
+        "desc": "Business Income"
+      },
+      {
+        "date": "2026-05-04",
+        "type": "Debit",
+        "amount": 22000,
+        "desc": "Car EMI"
+      },
+      {
+        "date": "2026-05-12",
+        "type": "Debit",
+        "amount": 18000,
+        "desc": "Investment"
+      }
+    ]
+  },
+
+  {
+    "phone": "9765432109",
+    "name": "Priya Nair",
+    "account_no": "XXXX5555",
+    "balance": 28700,
+    "loan_score": 73,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 4000,
+        "desc": "Hospital Bill"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Credit",
+        "amount": 26000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 2500,
+        "desc": "Grocery"
+      }
+    ]
+  },
+
+  {
+    "phone": "9012345678",
+    "name": "Rohit Das",
+    "account_no": "XXXX6666",
+    "balance": 50300,
+    "loan_score": 80,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Debit",
+        "amount": 5000,
+        "desc": "Fuel"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 42000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 7200,
+        "desc": "Online Shopping"
+      }
+    ]
+  },
+
+  {
+    "phone": "9090909090",
+    "name": "Aisha Khan",
+    "account_no": "XXXX7777",
+    "balance": 41200,
+    "loan_score": 77,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 2000,
+        "desc": "Movie Tickets"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Credit",
+        "amount": 35000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Debit",
+        "amount": 6500,
+        "desc": "Travel Booking"
+      }
+    ]
+  }
+,
+  {
+    "phone": "9886012345",
+    "name": "Vikram Joshi",
+    "account_no": "XXXX1001",
+    "balance": 86500,
+    "loan_score": 91,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Credit",
+        "amount": 65000,
+        "desc": "Monthly Salary"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Debit",
+        "amount": 4500,
+        "desc": "Restaurant Payment"
+      },
+      {
+        "date": "2026-05-09",
+        "type": "Debit",
+        "amount": 12000,
+        "desc": "Mobile Purchase"
+      }
+    ]
+  },
+
+  {
+    "phone": "9845123456",
+    "name": "Neha Kapoor",
+    "account_no": "XXXX1002",
+    "balance": 32500,
+    "loan_score": 74,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 2200,
+        "desc": "Zomato Order"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 28000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 3500,
+        "desc": "Electric Bill"
+      }
+    ]
+  },
+
+  {
+    "phone": "9877766554",
+    "name": "Aditya Rao",
+    "account_no": "XXXX1003",
+    "balance": 104000,
+    "loan_score": 95,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Credit",
+        "amount": 90000,
+        "desc": "Business Profit"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Debit",
+        "amount": 18000,
+        "desc": "Car Service"
+      },
+      {
+        "date": "2026-05-12",
+        "type": "Debit",
+        "amount": 6000,
+        "desc": "Shopping"
+      }
+    ]
+  },
+
+  {
+    "phone": "9900112233",
+    "name": "Pooja Shetty",
+    "account_no": "XXXX1004",
+    "balance": 17600,
+    "loan_score": 62,
+    "transactions": [
+      {
+        "date": "2026-05-04",
+        "type": "Debit",
+        "amount": 2500,
+        "desc": "Medical Store"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Credit",
+        "amount": 22000,
+        "desc": "Freelance Work"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 1900,
+        "desc": "Fuel Payment"
+      }
+    ]
+  },
+
+  {
+    "phone": "9988998877",
+    "name": "Harish Kumar",
+    "account_no": "XXXX1005",
+    "balance": 45800,
+    "loan_score": 81,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Credit",
+        "amount": 40000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Debit",
+        "amount": 7000,
+        "desc": "Online Shopping"
+      },
+      {
+        "date": "2026-05-09",
+        "type": "Debit",
+        "amount": 2400,
+        "desc": "Movie Tickets"
+      }
+    ]
+  },
+
+  {
+    "phone": "9876549876",
+    "name": "Deepika Jain",
+    "account_no": "XXXX1006",
+    "balance": 29800,
+    "loan_score": 69,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 1200,
+        "desc": "Food Delivery"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 25000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 4300,
+        "desc": "Clothing Purchase"
+      }
+    ]
+  },
+
+  {
+    "phone": "9123498765",
+    "name": "Manoj Verma",
+    "account_no": "XXXX1007",
+    "balance": 91500,
+    "loan_score": 89,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Credit",
+        "amount": 70000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Debit",
+        "amount": 15000,
+        "desc": "Bike EMI"
+      },
+      {
+        "date": "2026-05-12",
+        "type": "Debit",
+        "amount": 3500,
+        "desc": "Restaurant"
+      }
+    ]
+  },
+
+  {
+    "phone": "9011223344",
+    "name": "Sanjana Rao",
+    "account_no": "XXXX1008",
+    "balance": 54000,
+    "loan_score": 84,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 5000,
+        "desc": "Travel Booking"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Credit",
+        "amount": 48000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 2800,
+        "desc": "Grocery"
+      }
+    ]
+  },
+
+  {
+    "phone": "9345612345",
+    "name": "Akash Gupta",
+    "account_no": "XXXX1009",
+    "balance": 123000,
+    "loan_score": 97,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Credit",
+        "amount": 100000,
+        "desc": "Business Income"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Debit",
+        "amount": 21000,
+        "desc": "Property Payment"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 9000,
+        "desc": "Electronics"
+      }
+    ]
+  },
+
+  {
+    "phone": "9765012345",
+    "name": "Ritika Sharma",
+    "account_no": "XXXX1010",
+    "balance": 38700,
+    "loan_score": 76,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 3200,
+        "desc": "Shopping Mall"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 30000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-09",
+        "type": "Debit",
+        "amount": 2100,
+        "desc": "Fuel"
+      }
+    ]
+  },
+  {
+    "phone": "9876501234",
+    "name": "Nikhil Patil",
+    "account_no": "XXXX1011",
+    "balance": 74200,
+    "loan_score": 88,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Credit",
+        "amount": 52000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Debit",
+        "amount": 4500,
+        "desc": "Amazon Shopping"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 6000,
+        "desc": "Hotel Booking"
+      }
+    ]
+  },
+
+  {
+    "phone": "9988771122",
+    "name": "Kavya Menon",
+    "account_no": "XXXX1012",
+    "balance": 25800,
+    "loan_score": 68,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 1800,
+        "desc": "Food Delivery"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 24000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 3500,
+        "desc": "Medical Store"
+      }
+    ]
+  },
+
+  {
+    "phone": "9345609876",
+    "name": "Ramesh Gowda",
+    "account_no": "XXXX1013",
+    "balance": 118900,
+    "loan_score": 93,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Credit",
+        "amount": 98000,
+        "desc": "Business Revenue"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Debit",
+        "amount": 25000,
+        "desc": "Car EMI"
+      },
+      {
+        "date": "2026-05-12",
+        "type": "Debit",
+        "amount": 12000,
+        "desc": "Investment"
+      }
+    ]
+  },
+
+  {
+    "phone": "9012340099",
+    "name": "Ishita Roy",
+    "account_no": "XXXX1014",
+    "balance": 34600,
+    "loan_score": 72,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Debit",
+        "amount": 2500,
+        "desc": "Recharge"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Credit",
+        "amount": 28000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 5200,
+        "desc": "Clothing Store"
+      }
+    ]
+  },
+
+  {
+    "phone": "9765437890",
+    "name": "Aman Yadav",
+    "account_no": "XXXX1015",
+    "balance": 65700,
+    "loan_score": 85,
+    "transactions": [
+      {
+        "date": "2026-05-04",
+        "type": "Credit",
+        "amount": 47000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-08",
+        "type": "Debit",
+        "amount": 8500,
+        "desc": "Flight Ticket"
+      },
+      {
+        "date": "2026-05-12",
+        "type": "Debit",
+        "amount": 4300,
+        "desc": "Restaurant"
+      }
+    ]
+  },
+
+  {
+    "phone": "9098765432",
+    "name": "Shreya Kulkarni",
+    "account_no": "XXXX1016",
+    "balance": 22100,
+    "loan_score": 61,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Debit",
+        "amount": 1200,
+        "desc": "Movie Tickets"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Credit",
+        "amount": 18000,
+        "desc": "Freelance Income"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 3100,
+        "desc": "Online Shopping"
+      }
+    ]
+  },
+
+  {
+    "phone": "9123409876",
+    "name": "Vishal Singh",
+    "account_no": "XXXX1017",
+    "balance": 88900,
+    "loan_score": 92,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Credit",
+        "amount": 75000,
+        "desc": "Monthly Salary"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Debit",
+        "amount": 14000,
+        "desc": "Bike Purchase"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 3500,
+        "desc": "Fuel"
+      }
+    ]
+  },
+
+  {
+    "phone": "9988112233",
+    "name": "Ananya Desai",
+    "account_no": "XXXX1018",
+    "balance": 47200,
+    "loan_score": 79,
+    "transactions": [
+      {
+        "date": "2026-05-03",
+        "type": "Debit",
+        "amount": 4000,
+        "desc": "Shopping Mall"
+      },
+      {
+        "date": "2026-05-07",
+        "type": "Credit",
+        "amount": 36000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-12",
+        "type": "Debit",
+        "amount": 2800,
+        "desc": "Electricity Bill"
+      }
+    ]
+  },
+
+  {
+    "phone": "9345671234",
+    "name": "Suresh Naik",
+    "account_no": "XXXX1019",
+    "balance": 132500,
+    "loan_score": 96,
+    "transactions": [
+      {
+        "date": "2026-05-02",
+        "type": "Credit",
+        "amount": 110000,
+        "desc": "Business Income"
+      },
+      {
+        "date": "2026-05-06",
+        "type": "Debit",
+        "amount": 26000,
+        "desc": "Property EMI"
+      },
+      {
+        "date": "2026-05-10",
+        "type": "Debit",
+        "amount": 7500,
+        "desc": "Electronics Purchase"
+      }
+    ]
+  },
+
+  {
+    "phone": "9876011223",
+    "name": "Tanya Mehra",
+    "account_no": "XXXX1020",
+    "balance": 30900,
+    "loan_score": 71,
+    "transactions": [
+      {
+        "date": "2026-05-01",
+        "type": "Debit",
+        "amount": 2300,
+        "desc": "Swiggy Food"
+      },
+      {
+        "date": "2026-05-05",
+        "type": "Credit",
+        "amount": 29000,
+        "desc": "Salary"
+      },
+      {
+        "date": "2026-05-11",
+        "type": "Debit",
+        "amount": 3900,
+        "desc": "Travel Booking"
+      }
+    ]
+  }
+]
